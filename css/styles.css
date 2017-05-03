@@ -1,0 +1,20 @@
+.menu_item {
+  padding: 0 5px 0 5px;
+}
+
+.menu_item .inner {
+  background-color: grey;
+  height: 100%;
+}
+
+p {
+  padding: 10px;
+}
+
+body {
+
+}
+
+.fart {
+  background-color: blue;
+}
